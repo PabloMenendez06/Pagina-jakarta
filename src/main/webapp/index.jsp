@@ -34,6 +34,9 @@
                 <li class="nav-item">
                   <a class="nav-link" href="./formulario-productos/formulario-productos.jsp">Formulario Productos</a>
                 </li>
+                 <li class="nav-item">
+                     <a class="nav-link" href="./listar-productos/listar-productos.jsp">Listar Productos</a>
+                </li>
               </ul>
             </div>
           </div>
