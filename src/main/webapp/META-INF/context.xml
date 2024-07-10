@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/FormProductosIN5CM"/>
+<Context path="/FormProductosIN5CM">
+    <Resource name="jdbc/SGDBProductosIN5CM" auth="Container" type="javax.sql.DataSource"
+               maxTotal="100" maxIdle="30" maxWaitMillis="10000"
+               username="PabloMenendez" password="Ksante" driverClassName="com.mysql.cj.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/SGDBProductosIN5CM?serverTimezone=GTM-6"/>
+</Context>

@@ -50,7 +50,7 @@
                     <%
                     if(producto != null){ 
                         for(String prod:producto){%>
-                        <<ul>
+                        <ul>
                             <li style="text-align: center" class="mt-3";><%= prod%></li>
                         </ul>
                         <% }
